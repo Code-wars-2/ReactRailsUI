@@ -1,0 +1,49 @@
+@import '~antd/dist/antd.css';
+
+
+body{
+	background-color: #318DDE;
+}
+
+.container{
+	height:80vh;
+	width:90vw;
+	top: 10vh;
+	left: 5vw;
+	box-shadow:5px 20px 60px #3a3a3a;
+	border-radius: 5px;
+}
+
+.labels{
+	font-size: 17px;
+	font-weight: 500;	
+}
+
+.input-title{
+	margin-top: 10px;
+	margin-bottom: 30px;
+	height:40px;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.textarea-desc{
+	margin-top: 10px;
+	margin-bottom: 30px;
+	height:40px;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.click-btn{
+	margin-top: 5px;
+	float: right;
+	height:40px;
+	font-size: 16px;
+	font-weight: 300;
+	background-color: #318DDE;
+	color:white;
+	text-align: center;
+	word-wrap: break-word;
+}
+
